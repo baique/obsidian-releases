@@ -73845,7 +73845,7 @@
   {
     "id": "reading-notes",
     "name": "Reading Notes",
-    "author": "wangbaique",
+    "author": "baique",
     "description": "边读边记：将网页阅读、问题追问和 Markdown 笔记集中在一个 .read 文件中。",
     "repo": "baique/reading-notes"
   }
