@@ -73841,5 +73841,12 @@
     "author": "XR",
     "description": "Selectively transfer or sync Obsidian notes across Windows, macOS, iPhone, and iPad on a trusted LAN. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xr-7777/private-qr-sync"
+  },
+  {
+    "id": "reading-notes",
+    "name": "Reading Notes",
+    "author": "wangbaique",
+    "description": "边读边记：将网页阅读、问题追问和 Markdown 笔记集中在一个 .read 文件中。",
+    "repo": "baique/reading-notes"
   }
 ]
